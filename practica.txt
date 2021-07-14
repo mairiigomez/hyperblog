@@ -1,5 +1,6 @@
 Estoy aprendiendo a usar git con la consola.
 
 Aprendiendo un monton de Freddy y desactivando esas ganas de nunca parar de aprender.
+Esto va a tomar su tiempo y hay que ser pacientes. 
 
-version 1.  
+version 2.  
