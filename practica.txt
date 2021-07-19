@@ -4,3 +4,5 @@ Aprendiendo un monton de Freddy y desactivando esas ganas de nunca parar de apre
 Esto va a tomar su tiempo y hay que ser pacientes. 
 
 version 2.  
+
+Agregando lineas para ver un tercer estado en github. 

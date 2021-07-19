@@ -1,0 +1,27 @@
+$ git init -> inicia git 
+$ git add biografia.txt  -> agrega el archivo al repositorio
+$ git commit -m "versión 1" -> hace un commit 
+$ git add . -> agrega todos los archivos en la carpeta de trabajo al repo
+$ git commit -m "cambios a v1" -> otro commit
+$ git status -> sirve para ver el status de la base de datos, algun cambio
+$ git show -> todos los cambios que se han hecho, quien y cuando
+$ git log biografia.txt -> historia entera de un archivo
+$ git push -> envia hacia otro repositorio remoto
+$ git pull -> traer lo que enviaste
+$ git rm nombrearchivo.txt -> remover el archivo
+$ git rm -cached nombrearchivo.txt -> solo lo remueve del repo lo
+mantiene en la RAM 
+$ git config -> configuraciones que tiene git 
+$ git config --list -> configuracion de nuestro git que tiene y que le falta
+$ git config --list --show-origin -> comando avanzado si se quiere modificar
+los archivos del git
+$ git config --global ->cambia todos los usuarios a globales
+$ git config --global user.name "your_username" -> cambiar la configuración 
+del usuario git
+$ git config --global user.email "your_email"
+$ git log -> historia de los cambios que se han hecho 
+$ git config --global color.ui true -> sirve para colorear la mayor parte 
+de los resultados
+$ git config --global --replace-all user.name “Aquí va tu nombre modificado”
+$ git config --global --unset-all user.name :Elimina el nombre del usuario
+$ git config --global --add user.name “Aquí va tu nombre”
