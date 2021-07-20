@@ -12,3 +12,6 @@ esc shift zz para salir del commit
 vim --- vi editor de texto de la consola 
 
 signo hash signo numero son comentarios
+
+Hoy estamos aprendiendo mucho más del working directory
+staging y repository 
