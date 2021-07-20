@@ -15,3 +15,5 @@ signo hash signo numero son comentarios
 
 Hoy estamos aprendiendo mucho más del working directory
 staging y repository 
+
+cambio de maestria 
