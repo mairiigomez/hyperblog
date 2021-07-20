@@ -5,4 +5,10 @@ Esto va a tomar su tiempo y hay que ser pacientes.
 
 version 2.  
 
-Agregando lineas para ver un tercer estado en github. 
+Agregando lineas para ver un tercer estado en github.  
+
+esc shift zz para salir del commit 
+
+vim --- vi editor de texto de la consola 
+
+signo hash signo numero son comentarios
